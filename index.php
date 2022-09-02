@@ -3,8 +3,6 @@
 
     $movieOne = new Movie("Fight Club", 1999, "David Fincher");
     $movieTwo = new Movie("The Big Lebowski", 1998, "Joel Coen & Ethan Coen");
-    var_dump($movieOne);
-    var_dump($movieTwo);
 ?>
 <!DOCTYPE html>
 <html lang="en">
